@@ -1,6 +1,6 @@
 let name = 'Hello my name is heena parmar'
 console.log(name)
-const number = 5
+const number = 8
 let multiply = number * 2
 multiply = multiply * 5
 multiply = multiply / number
